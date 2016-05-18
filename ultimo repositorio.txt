@@ -1,2 +1,21 @@
 https://github.com/elsensei2015/pegui
 https://github.com/elsensei2015/plantilla     https://github.com/elsensei2015/plantilla.git
+
+
+ENLACES ENTRE PAGINAS
+http://www.ite.educacion.es/formacion/materiales/182/cd/cuatro/enlaces_entre_pginas_del_mismo_sitio.html
+
+
+FORMULARIOS EN JAVASCRIPT
+http://www.ite.educacion.es/formacion/materiales/182/cd/doce/formularios.html
+
+
+INFORMACION COMPLETA
+http://www.ite.educacion.es/formacion/materiales/182/cd/indice.htm
+
+base de datos en dreamweaver
+https://www.youtube.com/watch?v=YjL5kaibxnA
+
+
+configurar el servidor
+http://www.cristalab.com/tutoriales/crear-un-servidor-local-con-easyphp-c23163l/
