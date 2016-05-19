@@ -27,3 +27,7 @@ segundo arranque
 direccio: https://github.com/elsensei2015/plantilla2
 git remote add origin https://github.com/elsensei2015/plantilla2.git
 
+APK FUNCIONANDO
+https://build.phonegap.com/apps/2079231/share
+
+
